@@ -1,0 +1,14 @@
+Classes & Objects
+*****************
+
+1. Class is an "Extensible Program code template" that is used to create objects.
+2. Class is a blueprint of a runtime entity and the objects in state which includes behavior and state as well.
+3. Keyword "class" is used to create class in Kotlin.
+
+        Syntax:
+        ******
+            class className {
+                // Class Header
+                // Properties
+                // Member Functions
+            }

@@ -1,0 +1,12 @@
+Char Datatype in Kotlin:
+************************
+
+1. Char keyword in Kotlin is used to represent characters.
+
+2. Character must be given in Single Quotes.
+
+        Syntax:
+        *******
+            var x : Char = 'X' // No Error
+            var x : Char = "X" // gives Error
+            var x : Char = 12 // gives Error

@@ -1,0 +1,14 @@
+Numbers in Kotlin:
+*****************
+
+1. Number are represented suing 6 built-in types in Kotlin.
+
+     1. Byte
+     2. Short
+     3. Int
+     4. Long
+     5. Float
+     6. Double
+
+2. To use any number type, Specify data type as "Number", Instead of specifying anyone of the above six particularly.
+     * Number

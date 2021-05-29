@@ -1,0 +1,13 @@
+Operators in Kotlin:
+********************
+
+1. There are several types of operators are available. As follows,
+    * Arithmetic Operators
+    * Assignment Operators
+    * Unary Prefix & Increment / Decrement Operators
+    * Comparison & Equality Operators
+    * Logical Operators
+    * In Operators
+    * Index access Operators
+    * Invoke Operators
+    * Bitwise Operators.

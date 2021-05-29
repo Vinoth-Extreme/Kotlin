@@ -1,0 +1,8 @@
+Boolean Representation in Kotlin:
+*********************************
+
+1. Boolean data type has two possible value,
+        * true
+        * false.
+
+2. Used in Decision Making.

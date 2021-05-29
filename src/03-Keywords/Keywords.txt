@@ -1,0 +1,19 @@
+Keywords:
+*********
+
+1. Keyword is a preserved words whose meanings are predefined and cannot be changed.
+
+2. Variable names shouldn't match any keyword.
+
+3. There are 28 keywords are available in Kotlin under 2 categories.
+        1. Hard Keywords:
+            * as     * break  * class  * continue  * do         * interface
+            * false  * for    * fun    * if        * in         * super
+            * is     * null   * object * package   * return     * typeof
+            * this   * throw  * true   * try       * typealias
+            * val    * var    * when   * while     * else
+
+        2. soft Keywords:
+            Treated as keywords only in certain context.
+            For Example:
+                * public

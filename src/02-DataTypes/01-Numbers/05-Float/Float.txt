@@ -1,0 +1,9 @@
+Float Number Representation in Kotlin:
+**************************************
+
+1. Float data type is Single-Precision 32-bit floating point
+
+2. Append "F" to values of float variables to tell compiler its a float.
+
+3. If you don't know whether float or double will be held by a variable,
+        Then use "Number" data type Instead of "Float" or "Double".

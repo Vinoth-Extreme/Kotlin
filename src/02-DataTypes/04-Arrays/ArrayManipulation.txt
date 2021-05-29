@@ -1,0 +1,14 @@
+Array Manipulation in Kotlin with predefined functions:
+*******************************************************
+
+1. Kotlin has get(), set() methods that can directly access and modify the particular element of the array.
+
+2. set() function is used to set element at particular index location. This is also can be done
+        with assigning element at array index.
+
+3. get() function is used to get element from specified index
+
+4. Array Traversal is done using index range,
+    * min_value..max_value
+    (or)
+    * max_value..min_value

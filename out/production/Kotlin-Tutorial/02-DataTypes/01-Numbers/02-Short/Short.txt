@@ -1,0 +1,6 @@
+Short Number Representation in Kotlin:
+*************************************
+
+1. This data type can have values from -32768 to 32767.
+
+2. It's used to save memory by replacing this data type with any other integer data type.

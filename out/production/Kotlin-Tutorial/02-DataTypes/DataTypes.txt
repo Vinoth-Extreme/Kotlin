@@ -1,0 +1,11 @@
+Data Types:
+***********
+
+1. Kotlin is a statically typed programming language.
+
+2. Some built-in data types are,
+
+        * Numbers
+        * Characters
+        * Boolean
+        * Arrays

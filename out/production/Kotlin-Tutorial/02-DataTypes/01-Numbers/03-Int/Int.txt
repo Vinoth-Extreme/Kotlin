@@ -1,0 +1,4 @@
+Int Number Representation in Kotlin:
+***********************************
+
+1. Int data type can hold values from -2^31 to (2^32)-1.

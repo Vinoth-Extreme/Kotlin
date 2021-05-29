@@ -1,0 +1,9 @@
+Long Number Representation in Kotlin:
+************************************
+
+1. Long data type can hold values from (-2^63) to (2^63) - 1.
+
+2. If a value that is (2^31) < x < ((-2^31)-1), Without explicitly specifying the type,
+    It'll automatically be the type of "Long".
+
+3. We must append "L" with the values of ((-2^31) - 1) < x < (2^31).

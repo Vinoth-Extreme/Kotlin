@@ -1,0 +1,23 @@
+Array representation in Kotlin:
+*******************************
+
+1. Array is a container that holds data of one single type.
+    Note: Array index starts from 0 in Kotlin.
+
+2. In Kotlin, Arrays are represented using Array class.
+
+3. The Array class has "get" & "set" built-in functions, "size" property, and few other member functions.
+
+4. "Array Constructor" is declared with  size and init function. Init function returns array elements and their index.
+
+    Syn: Array(size: Int, (int) => T)
+
+5. An array in Kotlin can be created using,
+    * arrayOf(),
+    * intArrayOf(),
+    * charArrayOf(),
+    * booleanArrayOf(),
+    * longArray(),
+    * shortArray(),
+    * byteArray()
+functions.

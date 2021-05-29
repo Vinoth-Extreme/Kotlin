@@ -1,0 +1,7 @@
+Byte Number Representation in Kotlin:
+*************************************
+
+1. Byte datatype can have values from -128 to 127.
+    ( 8-bit signed two's complement integer )
+
+2. It is used instead of int or other integer data types to save memory if it's value is within range of [-128, 127].

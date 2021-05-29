@@ -1,0 +1,4 @@
+Double Number Representation in Kotlin:
+***************************************
+
+1. Double is double-precision 64-bit float.
