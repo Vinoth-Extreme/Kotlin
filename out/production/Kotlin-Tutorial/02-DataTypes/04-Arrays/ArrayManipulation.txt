@@ -7,3 +7,8 @@ Array Manipulation in Kotlin with predefined functions:
         with assigning element at array index.
 
 3. get() function is used to get element from specified index
+
+4. Array Traversal is done using index range,
+    * min_value..max_value
+    (or)
+    * max_value..min_value

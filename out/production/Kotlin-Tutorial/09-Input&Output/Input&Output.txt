@@ -1,0 +1,42 @@
+Input and Output in Kotlin:
+**************************
+
+Inputs:
+*******
+
+    1. In kotlin, if we want to take just the string inputs, then, use
+        "readline()" function.
+
+            Eg: var x = realLine()
+
+    2. If we want to read input as specific data type, import Scanner class, as follows,
+
+            Eg:
+                import java.util.Scanner
+
+                fun main(args: Array<String>) {
+                    val in = new Scanner(System.in())
+                    var int = in.nextInt()
+                    println(int)
+                }
+
+
+    3. Just like nextInt(), we also have,
+
+        * nextInt()
+        * nextByte()
+        * nextShort()
+        * nextLong()
+        * nextFloat()
+        * nextDouble()
+        * nextChar()
+
+
+Outputs:
+********
+
+1. for ouput, we have print(), println()
+
+2. print() - like inline printing.
+
+3. println() - like block level printing.

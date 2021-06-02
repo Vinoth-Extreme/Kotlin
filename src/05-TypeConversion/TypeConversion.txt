@@ -1,0 +1,15 @@
+Type Conversion in Kotlin:
+**************************
+
+1. There are several methods available for type conversion.
+
+    * toByte()
+    * toShort()
+    * toInt()
+    * toLong()
+    * toFloat()
+    * toDouble()
+    * toChar()
+
+    eg: val x: Int = 10
+        var y: Long = x.toLong()

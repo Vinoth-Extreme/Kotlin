@@ -1,0 +1,6 @@
+Comments in kotlin:
+******************
+
+1. /* ... */ is used for multi-line comments
+
+2. // is used for single line comments.

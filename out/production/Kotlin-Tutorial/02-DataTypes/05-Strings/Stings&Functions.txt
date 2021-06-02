@@ -1,0 +1,52 @@
+Strings and String Handling Functions:
+**************************************
+
+1. Unlike java, No need of new keyword in Kotlin.
+
+2. A string can simply be declared with single double quotes (" ") called "Escaped String" or
+        triple double quotes (""" """) called "Raw String".
+
+        Eg:
+        ***
+            var escapedStringExample = "This is escaped string"
+            var RawStringExample = """This is a Raw String"""
+
+3. String Properties.
+    1. length: Int
+    2. indices: IntRange
+    3. lastIndex: Int
+
+4. String Handling Functions
+    1. compareTo(other: String): Int
+            -- It returns 0, if both strings are equal.
+
+    2. get(index: Int): Char
+            -- Returns the character at specified position
+
+    3. plus(other: Any?): String
+            -- Returns concatenated string
+
+    4. subSequence(startIndex: Int, endIndex: Int): CharSequence
+            -- Returns CharSequence from startIndex to endIndex
+
+
+    5. CharSequence.containes(other: CharSequence, ignoreCase: Boolean = false)
+           -- Returns true if the "other" seq is contained by source sequence.
+
+    6. CharSequence.count(): Int
+           -- Returns length of string...
+
+    7. String.drop(n: Int): String
+           -- Returns the string after removing the first n characters.
+
+    8. String.dropLast(s: Int): String
+           -- Returns String after removal of last n characters
+
+    9. String.dropWhile(predicate: (Char) -> Boolean): String
+           -- Returns string of all characters except first characters satisfying predicate.
+
+    10.CharSequence.elementAt(index: Int): Char
+
+    11.CharSequence.indexOf(character: Char, startIndex: Int = 0, ignoreCase: Boolean = false)
+
+    12.

@@ -1,0 +1,20 @@
+Expression and Statement in Kotlin:
+***********************************
+
+1. Unlike java, Kotlin supports inline conditional expressions.
+
+    eg: var result = if (20 > 10) "ok" else "not ok"
+
+2. Thus, THe value is made dynamic like in javascript.
+
+3. We can add if-else ladders as well here.
+
+4. And, the nested if's, can as well be added.
+
+    eg:
+        var result = if ( mark == 0 ) {
+            if( mark < 0 ) "Negative"
+            else "Positive"
+        } else {
+            "Zero"
+        }
